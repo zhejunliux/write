@@ -1,5 +1,8 @@
 ---
 title: "Frein"
+menu:
+  main:
+    weight: 3
 ---
 
 #### Friend Link
