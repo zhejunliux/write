@@ -1,4 +1,5 @@
 baseURL = "https://write.4587.fun/"
+relativeURLs = true
 theme = "hugo-bearcub"
 copyright = "Copyright © 2018–2024 4587's all rights reserved."
 defaultContentLanguage = "cn"
