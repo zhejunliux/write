@@ -1,0 +1,47 @@
+baseURL = "https://write.4587.fun/"
+theme = "hugo-bearcub"
+copyright = "Copyright © 2018–2024 4587's all rights reserved."
+defaultContentLanguage = "cn"
+enableRobotsTXT = true
+enableEmoji = true
+
+[author]
+  name = "4587"
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true          # allow raw HTML in markdown (needed for <img>/<audio>/<video>)
+  [markup.highlight]
+    lineNos = false
+    noClasses = false
+
+[languages]
+  [languages.cn]
+    title = "Write Fun"
+    languageName = "中文"
+    languageCode = "zh-CN"
+    contentDir = "content"
+    [languages.cn.params]
+      blogPath = "/write"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Write"
+    url = "/write/"
+    weight = 2
+  [[menu.main]]
+    name = "Frein"
+    url = "/frein/"
+    weight = 3
+
+[params]
+  title = "Write Fun"
+  description = ""
+  dateFormat = "2006-01-02"
+  favicon = "images/4587-bk.png"
+  generateSocialCard = false
+  hideUntranslated = true

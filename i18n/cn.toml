@@ -1,0 +1,8 @@
+[filtering-for]
+  other = "筛选"
+
+[no-posts]
+  other = "还没有文章"
+
+[email-subject]
+  other = "回复 "
