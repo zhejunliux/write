@@ -14,9 +14,10 @@ RY&nbsp;-&gt;&nbsp;
 <br>
 <br>
 <span>
-nj&nbsp;-&gt;&nbsp;
+滋兹&nbsp;-&gt;&nbsp;
 <a target="_blank" title="感谢XZY大佬的付出！" href="https://www.mina.moe">MiNa!</a>&nbsp;
 <a target="_blank" title="RinChanNOW!" href="http://blog.rinchannow.site">リン屋</a>&nbsp;
 <a target="_blank" title="英雄，诗人，领路人" href="https://blog.simplenaive.cn">Yidadaa</a>&nbsp;
-<a target="_blank" title="相遇在兰州" href="https://ypw.io/">ypw</a>
+<a target="_blank" title="相遇在兰州" href="https://ypw.io/">ypw</a>&nbsp;
+<a target="_blank" title="曾经的自己" href="https://zhejunliux.github.io/">nj</a>
 </span>
