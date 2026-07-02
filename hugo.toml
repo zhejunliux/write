@@ -1,4 +1,4 @@
-baseURL = "https://writex.4587.fun/"
+baseURL = "https://write.4587.fun/"
 relativeURLs = true
 theme = "hugo-bearcub"
 copyright = "Copyright © 2018–2046 4587's all rights reserved."
