@@ -8,6 +8,12 @@ menu:
 #### Friend Link
 
 <span>
+4587&nbsp;-&gt;&nbsp;
+<a target="_blank" title="曾经的自己" href="https://zhejunliux.github.io/">曾经的自己</a>
+</span>
+<br>
+<br>
+<span>
 RY&nbsp;-&gt;&nbsp;
 <a target="_blank" title="一只无存在感小傲娇ʕ•ٹ•ʔ" href="https://ry.huaji.store">无存在感小透明</a>
 </span>
